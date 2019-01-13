@@ -1,7 +1,7 @@
 # kadai2
 
-##Description
+## Description
 ブラウザから数をカウントしているものが見られます。
 
-##Demo
+## Demo
 https://youtu.be/Yx3ftfCvz7M
